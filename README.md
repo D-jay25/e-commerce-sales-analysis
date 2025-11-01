@@ -1,2 +1,21 @@
-# e-commerce-sales-analysis
-e-commerce sales analysis explores sales data to uncover trends, top products, and customer buying patterns. Using SQL and Power BI, the project analyzes sales metrics and visualizes insights to help optimize inventory, enhance marketing, and boost revenue growth.
+E-Commerce Sales Analysis
+Overview:
+Analyzes e-commerce sales data to discover sales trends, top products, and customer purchasing patterns.
+
+Tools:
+SQL for data analysis
+Power BI for dashboard visualization
+
+Dataset Fields:
+customer_id, gender, purchase_date, age_category, price, quantity, total_sales, order_id, product_name
+
+Steps:
+Data cleaning and preparation
+Sales metrics calculation
+Trend, product, and customer analysis
+Interactive dashboard creation
+
+Results:
+Key trends and top products identified
+Actionable insights for inventory and marketing
+Visual analytics to support business decisions
